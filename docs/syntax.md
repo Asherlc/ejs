@@ -10,8 +10,8 @@ Table of contents
 - Basic format
 - Delimiters
 - Starting tags
-  - `<%=`: Escaped output
-  - `<%-`: Unescaped output
+  - `<%-`: Escaped output
+  - `<%=`: Unescaped output
   - `<%#`: Comments
   - `<%`: Scriptlet
   - `<%_`: Scriptlet, removes all preceeding whitespace
